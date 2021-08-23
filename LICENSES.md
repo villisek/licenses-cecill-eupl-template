@@ -1,7 +1,9 @@
 ## Information about this software's licenses..
 
 This software is distributed under free and open-source software licenses.
+
 These licenses are inter-compatible and compatible with some of the main FOSS licenses (see below).
+
 These licenses have been chosen as they are governed by European states laws and are multi-lingual. .
 
 ### `CeCILL-2.1`
